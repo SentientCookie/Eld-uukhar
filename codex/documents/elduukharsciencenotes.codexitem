@@ -1,0 +1,10 @@
+{
+"codexId" : "elduukharsciencenotes",
+"title" : "Study of the Eld'uukhar",
+"codexkind" : "codex",
+"inventoryIcon" : "elduukharcodexfront2.png",
+"itemName" : "elduukharscinotes",
+"rarity" : "common",
+"description" : "An scientific study of the Eld'uukhar.",
+"shortdescription" : "Eld'uukhar Codex"
+}

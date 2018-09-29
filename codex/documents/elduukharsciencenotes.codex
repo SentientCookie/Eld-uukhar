@@ -1,0 +1,23 @@
+{
+  "id" : "elduukharscinotes",
+  "title" : "Study of the Eld'uukhar",
+  "icon" : "elduukharcodexfront2.png",
+  "contentPages" : [
+
+        "<Day 1>
+  Contact with this new race is heading off to a fantastic start. They're more than willing to help and answer any questions we might have. They seem technologically advanced, as we are, and I was maybe wrong to think this might be like our Floran encounter.",
+
+	"<Day 5>
+  We had a few of them beam down to the facility today. They look just like the dragons that I learned of when I was a child. We were taught about 'fantasy' authors from Earth hundreds of years ago, and these definitely fit the bill of what they described. They speak our language well enough, but they have their own that they slip into from time to time when we leave them to look at test results. It sounds like a series of clicks and whistles.",
+
+	"<Day 8>
+  They've been willing to provide us with samples of scales and anything else we might need. They are highly resistant to heat, but putting the scales in the cold makes them brittle and susceptible to snapping. The scales are, however, useful as armour. They're not damage resistant, but they do a good job of protecting the Eld'uukhar in a pinch.",
+
+        "<Day 12>
+  The Eld'uukhar's wings work wonderfully. It was great to watch them take flight in the courtyard, although it seems like they can only fly for short distances. They say it's because they lack the power that their ancestors did for flight. We're told their ancestors were much bigger.",
+
+       "<Day 15>
+  The fire they breathe is hot enough to melt most metals. We're told that the Eld'uukhar work mostly with crystal and metals, and that their fire helps in the process, although they do also use furnaces and other technological tools."
+
+  ]
+}

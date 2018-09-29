@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "feya", "count" : 4 },
+    { "item" : "cobblestonematerial", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "elduuchest1",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}
