@@ -55,7 +55,7 @@
   "soundEffect" : "/sfx/objects/shipengine.ogg",
   "soundEffectRangeMultiplier" : 1.5,
 
-  "inventoryIcon" : "elduukharteleportericon.png",
+  "inventoryIcon" : "elduuteleportericon.png",
   "orientations" : [
     {
       "imageLayers" : [ { "image" : "elduukharteleporter.png:<color>", "fullbright" : true }, { "image" : "elduukharteleporterlit.png:<color>" } ],
