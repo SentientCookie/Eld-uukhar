@@ -1,8 +1,8 @@
 {
-  "id" : "elduukhardocument",
+  "id" : "lotus1",
   "title" : "Origins IV",
-  "description" : "An extract from the Book of Lotus."
-  "icon" : "elduukahrcodexfront.png",
+  "description" : "An extract from the Book of Lotus.",
+  "icon" : "elduukharcodexfront.png",
   "contentPages" : [
     "The gift of fire was given to the Eld'uu in an age before warmth ever touched this planet.", 
 	"For aeons, our people had wandered aimlessly through the dark with only the crystals to guide them, clinging to each other to survive in the harsh landscape.",
@@ -10,10 +10,9 @@
 	"In her gentle voice, she urged the pair to spread their gift, to restore the cold, unforgiving landscape of our planet.",
 	"For a time, peace and prosperity was the order, the Eld'uu had found a way of survival through these two chosen.",
 	"It was not to last."
-	
   ],
-  "itemConfig" : {
-  "rarity" : "rare",
-  "price" : 200
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 200
   }
 }
