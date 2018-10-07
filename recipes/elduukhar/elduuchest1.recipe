@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "feya", "count" : 4 },
-    { "item" : "cobblestonematerial", "count" : 20 }
+    { "item" : "rekite", "count" : 4 },
+    { "item" : "goldbar", "count" : 1 }
   ],
   "output" : {
     "item" : "elduuchest1",

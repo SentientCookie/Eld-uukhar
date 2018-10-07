@@ -7,7 +7,7 @@
   "description" : "A broken FTL fuel hatch. This won't do!",
   "shortdescription" : "Broken FTL Fuel Hatch",
   "race" : "elduukhar",
-  "lightColor" : [141, 48, 221],
+  "lightColor" : [103, 191, 166],
 
   "apexDescription" : "Converts fuel into freedom.",
   "avianDescription" : "Let's load it up and take to the stars!",

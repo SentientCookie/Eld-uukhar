@@ -11,7 +11,7 @@
   "shortdescription" : "Shiplocker",
   "race" : "elduukhar",
 
-  "lightColor" : [61, 88, 102],
+  "lightColor" : [103, 191, 166],
   "lightPosition" : [0, 0],
 
   "apexDescription" : "The ship's storage system.",

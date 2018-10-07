@@ -8,7 +8,7 @@
 
   "category" : "decorative",
   "price" : 2500,
-  "lightColor" : [102, 61, 61],
+  "lightColor" : [103, 191, 166],
   "lightPosition" : [-1, 0],
 
   "description" : "This tech station allows me to communicate with S.A.I.L and enable tech!",
