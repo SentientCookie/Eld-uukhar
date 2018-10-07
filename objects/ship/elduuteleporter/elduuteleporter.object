@@ -1,9 +1,9 @@
 {
-  "objectName" : "elduukharteleporter",
+  "objectName" : "elduuteleporter",
   "colonyTags" : ["elduukhar"],
   "printable" : false,
   "rarity" : "Common",
-  "description" : "An Eld'uukhar designed teleportation device.",
+  "description" : "An Eld'uukhar-designed teleportation device.",
   "shortdescription" : "Teleporter",
   "race" : "elduukhar",
 
@@ -58,11 +58,12 @@
   "inventoryIcon" : "elduuteleportericon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "elduukharteleporter.png:<color>", "fullbright" : true }, { "image" : "elduukharteleporterlit.png:<color>" } ],
+      "imageLayers" : [ { "image" : "elduuteleporter.png:<color>.<frame>", "fullbright" : true }, { "image" : "elduuteleporterlit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-32, 0],
       "frames" : 6,
-      "animationCycle" : 1,
+      "animationCycle" : 5,
+	  
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
