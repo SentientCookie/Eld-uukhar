@@ -1,0 +1,15 @@
+{
+  "itemName" : "slopedcrystalpanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "slopedcrystalpanelicon.png",
+  "description" : "Panelling made from gold and a crystal alloy.",
+  "shortdescription" : "Crystal Panels",
+  "glitchdescription" : "Happy. This looks beautiful.",
+  "florandescription" : "Floran likesss ssshiny.",
+  "novakiddescription" : "This is mighty fancy.",
+
+  "materialId" : 5998,
+  "learnBlueprintsOnPickup" : [ "slopedcrystalpanel" ]
+}
