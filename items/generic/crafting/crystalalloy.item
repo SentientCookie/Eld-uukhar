@@ -1,0 +1,10 @@
+{
+  "itemName" : "crystalalloy",
+  "rarity" : "Common",
+  "price" : 45,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "crystalalloy.png",
+  "description" : "An alloy made from crystal and metal.",
+  "shortdescription" : "Crystal Alloy",
+  "itemTags" : [ "reagent" ]
+}

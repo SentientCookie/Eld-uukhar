@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "opul", "count" : 1 },
+	{ "item" : "feya", "count" : 5 }
+  ],
+  "output" : { "item" : "upilite", "count" : 5 },
+  "groups" : [ "crystalloom", "ingredients" ]
+}

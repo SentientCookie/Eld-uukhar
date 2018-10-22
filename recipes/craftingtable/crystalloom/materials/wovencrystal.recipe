@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "upilite", "count" : 3 },
+	{ "item" : "fabric", "count" : 5 }
+  ],
+  "output" : { "item" : "wovencrystal", "count" : 1 },
+  "groups" : [ "crystalloom", "ingredients" ]
+}
