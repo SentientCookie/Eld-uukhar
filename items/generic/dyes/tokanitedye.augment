@@ -1,0 +1,21 @@
+{
+  "itemName" : "tokanitedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tokanitedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Tokanite Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "9AFF9A",
+				"e0975c": "6BF252",
+				"a85636": "3CB616",
+				"6f2919": "29894B"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
