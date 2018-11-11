@@ -1,0 +1,24 @@
+{
+  "materialId" : 5995,
+  "materialName" : "slopedcrystalpanel2",
+  "particleColor" : [164, 110, 6, 255],
+  "itemDrop" : "slopedcrystalpanel2",
+  "description" : "Panelling made from gold and a crystal alloy.",
+  "shortdescription" : "Crystal Panels",
+  "glitchdescription" : "Happy. This looks beautiful.",
+  "florandescription" : "Floran likesss ssshiny.",
+  "novakiddescription" : "This is mighty fancy.",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "slopedcrystalpanel2.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 5002
+  }
+}
