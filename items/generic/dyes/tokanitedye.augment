@@ -8,10 +8,17 @@
   "shortdescription" : "Tokanite Dye",
 
 			"dyeDirectives": {
-				"ffca8a": "9AFF9A",
-				"e0975c": "6BF252",
-				"a85636": "3CB616",
-				"6f2919": "29894B"
+<<<<<<< HEAD
+				"ffca8a": "FED833",
+				"e0975c": "CCCC51",
+				"a85636": "8FB258",
+				"6f2919": "5D994C"
+=======
+				"ffca8a": "417F54",
+				"e0975c": "326342",
+				"a85636": "234F32",
+				"6f2919": "092E20"
+>>>>>>> 78736cf51840361c1c0484b9f3a02e6765e96a93
 			},
 			"dyeColorIndex": false,
 
