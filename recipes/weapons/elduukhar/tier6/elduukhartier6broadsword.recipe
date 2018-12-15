@@ -8,5 +8,5 @@
     "item" : "elduukhartier6broadsword",
     "count" : 1
   },
-  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+  "groups" : [ "gemstation", "weapons", "all" ]
 }
