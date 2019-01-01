@@ -1,0 +1,11 @@
+{
+  "input" : [
+        { "item" : "upilite", "count" : 5 },
+	{ "item" : "phosite", "count" : 5 },
+	{ "item" : "apalite", "count" : 5 },
+	{ "item" : "tokanite", "count" : 5 },
+	{ "item" : "goldbar", "count" : 2 }
+  ],
+  "output" : { "item" : "crystalpanel2", "count" : 20 },
+  "groups" : [ "furniturestation", "materials" ]
+}

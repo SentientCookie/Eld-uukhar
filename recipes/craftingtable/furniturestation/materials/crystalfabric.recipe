@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wovencrystal", "count" : 10 },
+	{ "item" : "emera", "count" : 10 },
+	{ "item" : "upilite", "count" : 10 }
+  ],
+  "output" : { "item" : "crystalfabric", "count" : 20 },
+  "groups" : [ "furniturestation", "materials" ]
+}

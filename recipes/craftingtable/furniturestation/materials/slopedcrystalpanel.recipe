@@ -1,0 +1,11 @@
+{
+  "input" : [
+        { "item" : "kespar", "count" : 5 },
+	{ "item" : "opul", "count" : 5 },
+	{ "item" : "nhydri", "count" : 5 },
+	{ "item" : "rekite", "count" : 5 },
+	{ "item" : "goldbar", "count" : 2 }
+  ],
+  "output" : { "item" : "slopedcrystalpanel", "count" : 20 },
+  "groups" : [ "furniturestation", "materials" ]
+}

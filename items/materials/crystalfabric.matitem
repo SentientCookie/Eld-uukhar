@@ -1,0 +1,12 @@
+{
+  "itemName" : "crystalfabric",
+  "price" : 100,
+  "rarity" : "Common",
+  "inventoryIcon" : "crystalfabricicon.png",
+  "description" : "Cloth woven from fine crystal fibres. It's surprisingly soft.",
+  "shortdescription" : "Crystalline Fabric",
+  "printable" : true,
+  "materialId" : 5999,
+  
+  "learnBlueprintsOnPickup" : [ "crystalfabric" ]
+}

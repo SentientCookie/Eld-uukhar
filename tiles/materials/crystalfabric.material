@@ -1,0 +1,23 @@
+{
+  "materialId" : 5999,
+  "materialName" : "crystalfabric",
+  "particleColor" : [193, 204, 204, 255],
+  "itemDrop" : "crystalfabric",
+  "description" : "Cloth woven from fine crystal fibres. It's surprisingly soft.",
+  "shortdescription" : "Crystalline Fabric",
+
+
+  "footstepSound" : "/sfx/blocks/footstep_sand.ogg",
+  "health" : 1,
+  "category": "materials",
+  
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "crystalfabric.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 2100
+  }
+}
