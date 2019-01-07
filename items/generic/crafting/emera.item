@@ -7,5 +7,5 @@
   "description" : "A green crystal that grows in clusters. It's very brittle.",
   "shortdescription" : "Emera Crystal",
   "itemTags" : [ "reagent" ],
-  "learnBlueprintsOnPickup" : [ "emeradye", "crystalloom" ]
+  "learnBlueprintsOnPickup" : [ "emeradye", "crystalloom", "wovencrystal" ]
 }
