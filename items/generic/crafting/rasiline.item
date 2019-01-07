@@ -6,5 +6,6 @@
   "inventoryIcon" : "rasiline.png",
   "description" : "A pretty pink gem.",
   "shortdescription" : "Rasiline Crystal",
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "rasilinedye" ]
 }

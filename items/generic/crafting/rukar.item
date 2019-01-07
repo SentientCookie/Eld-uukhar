@@ -6,5 +6,6 @@
   "inventoryIcon" : "rukar.png",
   "description" : "A blood red gem.",
   "shortdescription" : "Rukar Crystal",
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "rukardye" ]
 }
