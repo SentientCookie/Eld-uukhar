@@ -7,5 +7,17 @@
   "description" : "Crystal stretched and spun into fabric.",
   "shortdescription" : "Woven Crystal",
   "itemTags" : [ "reagent" ],
-  "learnBlueprintsOnPickup" : [ "crystalfabric" ]
+  "learnBlueprintsOnPickup" : [ 
+  "crystalfabric",
+  "elduubannerlarge",
+  "elduubannersmall",
+  "elduurebelbannerlarge",
+  "elduurebelbannersmall",
+  "elduutornbannerlarge",
+  "elduutornbannersmall",
+  "elduutornrebelbannerlarge",
+  "elduutornrebelbannersmall",
+  "elduuhammock",
+  "appleplush" 
+  ]
 }
