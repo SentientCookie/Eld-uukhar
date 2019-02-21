@@ -2,8 +2,7 @@
   "input" : [
     { "item" : "thanatite", "count" : 50 },
 	{ "item" : "thanatiteseed", "count" : 5 },
-	{ "item" : "rekite", "count" : 10 },
-	{ "item" : "liquidcrystal", "count" : 15 }
+	{ "item" : "rekite", "count" : 10 }
   ],
   "output" : { "item" : "rukarseed", "count" : 1 },
   "groups" : [ "gemstation", "ingredients" ]
