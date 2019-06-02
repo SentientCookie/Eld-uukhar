@@ -41,8 +41,7 @@
 
   "animation" : "/objects/ship/techstation.animation",
   "scripts" : [
-    "/objects/spawner/techstation.lua",
-    "/objects/scripts/customtechstation.lua"
+    "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
   "shipPetType" : "gembot",
