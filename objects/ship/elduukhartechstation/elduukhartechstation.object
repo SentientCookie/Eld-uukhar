@@ -4,8 +4,7 @@
   "printable" : false,
   "rarity" : "Common",
 
-  "interactAction" : "ScriptPane",
-  "interactData" : "/zb/newSail/newSail.config",
+  "interactAction" : "OpenAiInterface",
 
   "category" : "decorative",
   "price" : 2500,
