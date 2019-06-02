@@ -4,12 +4,11 @@
   "charCreationTooltip" : {
       "title" : "Eld'uukhar",
       "subTitle" : "?",
-      "description" : "The Eld'uukhar are reminiscent of the dragons of legend. Skilled gemstone and metalworkers, they travel the universe looking to hone their craft."
+      "description" : "The Eld'uukhar are a religious race of peaceful artisans and craftsmen. They cultivate crystals to use in every aspect of their lives."
   },
   
   "nameGen" : [ "/species/elduukharmalenamegen.config:names", "/species/elduukharfemalenamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/elduukharhurt_male1.wav", "/sfx/humanoid/elduukharhurt_female1.wav" ],
-  "gruntNoises" : [ [ "/sfx/humanoid/elduukhargrunt1.wav" ], [ "/sfx/humanoid/elduukhargrunt2.wav" ] ],
+  "ouchNoises" : [ "/sfx/humanoid/floranhurt_male1.wav", "/sfx/humanoid/floranhurt_female1.wav" ],
   "charGenTextLabels" : [ "Scale Color", "Horns", "Shirt", "Pants", "Fin Color", "Belly Color", "Shirt Color", "Pants Color", "ELD'UUKHAR", "Personality" ],
   "skull" : "/humanoid/elduukhar/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=EEFFBAFF?replace=9bd4ffFF=AEDEBFFF?replace=31a6ffFF=67BFA6FF",
